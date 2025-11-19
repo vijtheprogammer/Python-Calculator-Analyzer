@@ -1,0 +1,14 @@
+{
+    "Total Rows ": 61,
+    "Most Common Digit (MCD) ": 1,
+    "MCD Frequency ": 42,
+    "Least Common Digit (LCD) ": 7,
+    "LCD Frequency ": 4,
+    "Most Common Number (MCN) ": 4.0,
+    "MCN Frequency ": 25,
+    "Least Common Number (LCN) ": 200.0,
+    "LCN Frequency ": 1,
+    "Minimum Number ": -55.0,
+    "Maximum Number ": 484.0,
+    "Average ": "55.085"
+}
